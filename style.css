@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 body{
-    background-color: black;
+    background-color: pink;
     color: white;
+}
+
+h1{
+    text-decoration: line-through;
 }
